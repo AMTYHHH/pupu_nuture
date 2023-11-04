@@ -61,6 +61,7 @@ public class AutoFakeOutline : MonoBehaviour
         }
     }
 
+
     private float[] GetGaussianKernel(int kernelSize, float sigma)
     {
         float[] weights = new float[kernelSize * kernelSize];
