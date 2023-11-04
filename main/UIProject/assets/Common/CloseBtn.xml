@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="155,130" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n1_f77f" name="n1" src="f77f8" fileName="img/close.png" xy="5,8" size="143,111" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

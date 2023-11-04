@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n5_fltl" name="closeBtn" src="i0r63" fileName="BlankBtn.xml" xy="0,0" size="1080,1920" alpha="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <graph id="n8_fltl" name="n8" xy="1,685" size="1083,710" type="rect"/>
+    <richtext id="n1_i0r6" name="content" xy="209,776" size="661,190" font="KaiTi" fontSize="74" ubb="true" autoSize="height" text=" 你好~欢迎来到这里，我叫xxx">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </richtext>
+    <text id="n2_i0r6" name="ok1" xy="765,1044" size="115,96" font="KaiTi" fontSize="74" text="Yes">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <text id="n3_i0r6" name="cancel" xy="199,1044" size="78,96" font="KaiTi" fontSize="74" text="No">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <component id="n7_fltl" name="ok" src="i0r62" fileName="CommonTextButton.xml" xy="386,1192"/>
+  </displayList>
+</component>

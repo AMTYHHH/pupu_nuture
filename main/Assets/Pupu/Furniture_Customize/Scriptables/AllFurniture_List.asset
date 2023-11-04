@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720c6c9c411ec0045bb8fdde352f5166, type: 3}
+  m_Name: AllFurniture_List
+  m_EditorClassIdentifier: 
+  wallpaperInfos:
+  - WallpaperName: Wallpaper_001
+    WallpaperSprite: {fileID: 21300000, guid: 4196c497c78f2204d98921107b22d24e, type: 3}
+    MenuName: "\u58C1\u7EB81"
+    MenuIcon: {fileID: 21300000, guid: 4196c497c78f2204d98921107b22d24e, type: 3}
+  - WallpaperName: Wallpaper_002
+    WallpaperSprite: {fileID: 21300000, guid: 729cef5d656d23540ac62bca97d3eb11, type: 3}
+    MenuName: "\u58C1\u7EB82"
+    MenuIcon: {fileID: 21300000, guid: 729cef5d656d23540ac62bca97d3eb11, type: 3}
+  floorInfos:
+  - FloorName: Floor_001
+    FloorSprite: {fileID: 21300000, guid: f763c70a0a8a4e24dbcbfc36860f2e9e, type: 3}
+    MenuName: "\u5730\u677F1"
+    MenuIcon: {fileID: 21300000, guid: f763c70a0a8a4e24dbcbfc36860f2e9e, type: 3}
+  - FloorName: Floor_002
+    FloorSprite: {fileID: 21300000, guid: c32ab408766fb6a4abfb0c4f68a5877f, type: 3}
+    MenuName: "\u5730\u677F2"
+    MenuIcon: {fileID: 21300000, guid: c32ab408766fb6a4abfb0c4f68a5877f, type: 3}
+  furnitureInfos:
+  - FurnitureName: Furniture_001
+    FurnitureObject: {fileID: 4855791211657497287, guid: 71ca03c0a0cc1b446a49ebf5f6765644, type: 3}
+    MenuName: "\u5BB6\u51771"
+    MenuIcon: {fileID: 21300000, guid: f3c560ed8a501e34ab06244418397cae, type: 3}
+  - FurnitureName: Furniture_002
+    FurnitureObject: {fileID: 8898558988986521580, guid: 9d5c196883e8e644c82db442b5d8ea0b, type: 3}
+    MenuName: "\u5BB6\u51772"
+    MenuIcon: {fileID: 21300000, guid: fdaaba68bddd5dd4ca86ad8b4ef54f81, type: 3}
+  hangingItemInfos:
+  - FurnitureName: HangingItems_001
+    FurnitureObject: {fileID: 190668787862861851, guid: 9e18f3b6d42772a4dac6ed85bec95db0, type: 3}
+    MenuName: "\u60AC\u63021"
+    MenuIcon: {fileID: 21300000, guid: 1db10fc01d9c41548956015f41a58a7a, type: 3}
+  - FurnitureName: HangingItems_002
+    FurnitureObject: {fileID: 7035135083553300740, guid: 66eb449c3c4bc0d40bd246b801880160, type: 3}
+    MenuName: "\u60AC\u63022"
+    MenuIcon: {fileID: 21300000, guid: 643e7e09158daa540b33c4e04519faa3, type: 3}
+  wallmountedInfos:
+  - FurnitureName: WClock_001
+    FurnitureObject: {fileID: 1425791061252588645, guid: 7e91fadc343a4c54c8d5ffb0c698cf1a, type: 3}
+    MenuName: "\u65F6\u949F1"
+    MenuIcon: {fileID: 21300000, guid: 0f59aeb4d54bb5c4ca4117e81357eac1, type: 3}
+  - FurnitureName: WallMountedItems_001
+    FurnitureObject: {fileID: 4127459033601077362, guid: 238a2a0dfe15ca24cbd39a3d62ab633c, type: 3}
+    MenuName: "\u58C1\u63021"
+    MenuIcon: {fileID: 21300000, guid: 7b361d8140c9d3248aa66a2a3559fc07, type: 3}
+  smallOrnamentInfos:
+  - FurnitureName: SmallOrnaments_001
+    FurnitureObject: {fileID: 9007527845427027093, guid: 5c12db28ceec1bc43b24f6a175b27af3, type: 3}
+    MenuName: "\u6446\u4EF61"
+    MenuIcon: {fileID: 21300000, guid: 0a5e28a5e37dd34438c3168aaeda57d4, type: 3}
+  - FurnitureName: SmallOrnaments_002
+    FurnitureObject: {fileID: 666260404787642439, guid: 6b184c377fea7064ea80a2723d08c5b0, type: 3}
+    MenuName: "\u6446\u4EF62"
+    MenuIcon: {fileID: 21300000, guid: ae92e1b390523ab45ace9dfa3e234c5b, type: 3}

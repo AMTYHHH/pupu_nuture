@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0248b762266d94b87da20a182a4f9c, type: 3}
+  m_Name: Map_SO
+  m_EditorClassIdentifier: 
+  mapDatas:
+  - MapName: map_gothic
+    MapRef:
+      m_AssetGUID: c6e86d9e4bded6c4ba4849d0eb175f84
+      m_SubObjectName: "pupu\u54E5\u7279\u5730\u56FE"
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - MapName: map_forest
+    MapRef:
+      m_AssetGUID: 351d8df870820bb4885190119c03b559
+      m_SubObjectName: "pupu\u68EE\u7CFB\u5730\u56FE"
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0

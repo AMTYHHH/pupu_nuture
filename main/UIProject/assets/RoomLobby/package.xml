@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lrm1spw4">
+  <resources>
+    <component id="f77f0" name="RoomLobbyUI.xml" path="/" exported="true"/>
+    <component id="fltl0" name="UseGoodsUI.xml" path="/" exported="true"/>
+    <component id="f77f1" name="DetailComponent.xml" path="/"/>
+    <image id="f77f4" name="type_1.png" path="/img/" exported="true"/>
+    <image id="f77f5" name="type_2.png" path="/img/" exported="true"/>
+    <image id="f77f6" name="type_3.png" path="/img/" exported="true"/>
+    <component id="f77f7" name="GoodsTypeListItem.xml" path="/"/>
+    <image id="f77f8" name="icon_room.png" path="/icon/"/>
+    <image id="f77f9" name="icon_guide.png" path="/icon/"/>
+    <image id="f77fa" name="icon_info.png" path="/icon/"/>
+    <component id="f77fb" name="GoodsListItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tbso0i5c">
+  <resources>
+    <component id="i0r60" name="MainUI.xml" path="/" exported="true"/>
+    <image id="fltl1" name="icon_setting.png" path="/icon/"/>
+    <image id="fltl2" name="icon_guide.png" path="/icon/"/>
+    <image id="fltl3" name="icon_info.png" path="/icon/"/>
+    <image id="fltl4" name="icon_room.png" path="/icon/"/>
+    <component id="fltl5" name="MainMenuButton.xml" path="/"/>
+    <image id="f77f2" name="left.png" path="/icon/"/>
+    <image id="f77f3" name="right.png" path="/icon/"/>
+    <component id="f77f6" name="RoomEditBtn.xml" path="/"/>
+    <image id="f77f4" name="icon_room.png" path="/img/"/>
+    <image id="f77f7" name="close.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

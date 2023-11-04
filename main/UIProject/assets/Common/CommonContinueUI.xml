@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" extention="Button">
+  <displayList>
+    <component id="n3_fltl" name="closeBtn" src="i0r63" fileName="BlankBtn.xml" xy="0,0" size="1080,1920" alpha="0"/>
+    <richtext id="n1_i0r6" name="content" xy="189,778" size="661,190" font="KaiTi" fontSize="74" ubb="true" autoSize="height" text=" 你好~欢迎来到这里，我叫xxx">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </richtext>
+    <text id="n2_i0r6" name="n2" xy="754,1744" size="300,96" font="KaiTi" fontSize="74" text="点击继续">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

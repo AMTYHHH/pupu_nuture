@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false">
+  <displayList>
+    <graph id="n16_f77f" name="n16" xy="0,0" size="1080,1920" visible="false" type="rect" lineSize="0"/>
+    <text id="n1_i0r6" name="roomName" xy="397,53" pivot="0.5,0.5" size="286,122" fontSize="94" text="房间名"/>
+    <component id="n2_fltl" name="settingBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="13,64">
+      <Button icon="ui://tbso0i5cfltl1"/>
+    </component>
+    <component id="n3_fltl" name="infoBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="170,64">
+      <Button icon="ui://tbso0i5cfltl3"/>
+    </component>
+    <component id="n4_fltl" name="guideBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="774,64">
+      <Button icon="ui://tbso0i5cfltl2"/>
+    </component>
+    <component id="n5_fltl" name="roomBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="941,64">
+      <Button icon="ui://tbso0i5cfltl4"/>
+    </component>
+    <component id="n13_f77f" name="leftBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="27,766">
+      <Button icon="ui://tbso0i5cf77f2"/>
+    </component>
+    <component id="n11_f77f" name="rightBtn" src="fltl4" fileName="CommonIconButton.xml" pkg="t2zoropl" xy="954,753">
+      <Button icon="ui://tbso0i5cf77f3"/>
+    </component>
+    <component id="n17_f77f" name="roomBtn2" src="f77f6" fileName="RoomEditBtn.xml" xy="940,57" visible="false" alpha="0" touchable="false"/>
+  </displayList>
+</component>

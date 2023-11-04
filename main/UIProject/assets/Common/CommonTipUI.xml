@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n1_fltl" name="closeBtn" src="i0r63" fileName="BlankBtn.xml" xy="0,0" size="1080,1920" alpha="0.5"/>
+    <text id="n0_fltl" name="content" xy="211,1221" size="655,311" fontSize="70" autoSize="none" text="没有⻝物储备了，再去别的房间看看吧"/>
+  </displayList>
+</component>

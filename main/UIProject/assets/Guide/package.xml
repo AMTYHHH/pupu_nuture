@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="q3l7vvj0">
+  <resources>
+    <component id="i0r67" name="GuideUI.xml" path="/" exported="true"/>
+    <component id="i0r6a" name="RoleSelectComp.xml" path="/"/>
+    <component id="i0r6b" name="RoleSelectItem.xml" path="/"/>
+    <image id="i0r6c" name="button_1.png" path="/img/"/>
+    <image id="i0r6d" name="guide_1.png" path="/img/"/>
+    <image id="i0r6e" name="guide_2.png" path="/img/"/>
+    <image id="i0r6f" name="role_1.png" path="/img/"/>
+    <image id="i0r6g" name="role_2.png" path="/img/"/>
+    <image id="i0r6h" name="icon_1.png" path="/img/"/>
+  </resources>
+  <publish name="Guide">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

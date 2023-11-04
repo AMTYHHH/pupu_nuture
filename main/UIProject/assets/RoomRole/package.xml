@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kheinhym">
+  <resources>
+    <component id="hybw0" name="RoomRoleUI.xml" path="/" exported="true"/>
+    <component id="hybw1" name="GoodsTypeListItem.xml" path="/"/>
+    <image id="hybw2" name="icon_room.png" path="/icon/"/>
+    <image id="hybw3" name="icon_guide.png" path="/icon/"/>
+    <image id="hybw4" name="icon_info.png" path="/icon/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

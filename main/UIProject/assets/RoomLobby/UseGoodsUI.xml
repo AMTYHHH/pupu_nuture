@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n1_fltl" name="n1" xy="49,559" size="1000,700" type="rect" lineSize="0" fillColor="#ff33ff00"/>
+    <loader id="n5_fltl" name="icon" xy="473,579" size="174,174" url="ui://lrm1spw4f77f6" fill="scale"/>
+    <component id="n3_fltl" name="cancelBtn" src="i0r62" fileName="CommonTextButton.xml" pkg="t2zoropl" xy="131,1096" size="300,100">
+      <Button title="返 回"/>
+    </component>
+    <component id="n4_fltl" name="okBtn" src="i0r62" fileName="CommonTextButton.xml" pkg="t2zoropl" xy="714,1092" size="300,100">
+      <Button title="使 用"/>
+    </component>
+    <text id="n6_fltl" name="num" xy="671,666" size="78,95" fontSize="73" text="x1"/>
+    <text id="n7_fltl" name="name" xy="481,790" pivot="0.5,0.5" size="220,72" fontSize="54" align="center" text="道具名称"/>
+    <text id="n8_fltl" name="desc" xy="303,899" pivot="0.5,0" size="586,106" fontSize="40" autoSize="height" text="道具描述道具描述道具描述道具描述道具描述道具描述"/>
+    <component id="n9_f77f" name="closeBtn" src="f77f7" fileName="CloseBtn.xml" pkg="t2zoropl" xy="930,517"/>
+  </displayList>
+</component>

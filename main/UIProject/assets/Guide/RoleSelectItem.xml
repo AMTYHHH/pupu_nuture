@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,300" extention="Button">
+  <controller name="select" pages="0,,1," selected="1"/>
+  <displayList>
+    <loader id="n0_i0r6" name="icon" xy="45,0" size="210,210" url="ui://q3l7vvj0i0r6f" fill="scale"/>
+    <image id="n1_i0r6" name="n1" src="i0r6h" fileName="img/icon_1.png" xy="123,249" size="52,50">
+      <gearDisplay controller="select" pages="1"/>
+    </image>
+    <text id="n2_i0r6" name="title" xy="195,207" size="86,72" fontSize="54" text="sdf"/>
+  </displayList>
+  <Button/>
+</component>

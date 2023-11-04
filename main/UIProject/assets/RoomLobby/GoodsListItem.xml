@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="141,201" pivot="0.5,0.5">
+  <displayList>
+    <graph id="n2_f77f" name="n2" xy="-4,-4" size="148,209" type="rect" lineSize="0"/>
+    <loader id="n0_fltl" name="icon" xy="11,0" size="117,117" url="ui://lrm1spw4f77f8" vAlign="bottom" fill="scale"/>
+    <text id="n1_fltl" name="title" xy="10,135" pivot="0.5,0.5" size="119,62" fontSize="46" text="家 具"/>
+  </displayList>
+</component>

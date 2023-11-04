@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="page" pages="0,,1,,2,,3,,4,,5," selected="1"/>
+  <displayList>
+    <component id="n7_i0r6" name="bgBtn" src="i0r63" fileName="BlankBtn.xml" pkg="t2zoropl" xy="0,0" size="1080,1920"/>
+    <image id="n0_i0r6" name="n0" src="i0r6d" fileName="img/guide_1.png" xy="281,836" size="561,299">
+      <gearDisplay controller="page" pages="0"/>
+    </image>
+    <component id="n4_i0r6" name="continueBtn" src="i0r60" fileName="CommonContinueUI.xml" pkg="t2zoropl" xy="0,0" group="n5_i0r6">
+      <gearDisplay controller="page" pages="1"/>
+    </component>
+    <image id="n2_i0r6" name="n2" src="i0r6e" fileName="img/guide_2.png" xy="369,191" size="352,456" group="n5_i0r6">
+      <gearDisplay controller="page" pages="1"/>
+    </image>
+    <group id="n5_i0r6" name="n5" xy="0,0" size="1080,1920"/>
+    <component id="n6_i0r6" name="continueBtn2" src="i0r60" fileName="CommonContinueUI.xml" pkg="t2zoropl" xy="101,560">
+      <gearDisplay controller="page" pages="2"/>
+    </component>
+    <component id="n3_i0r6" name="roleSelectComp" src="i0r6a" fileName="RoleSelectComp.xml" xy="0,0">
+      <gearDisplay controller="page" pages="3"/>
+    </component>
+  </displayList>
+</component>

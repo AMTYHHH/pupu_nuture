@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59e5014406d0f74a8d3dd875664fe6b, type: 3}
+  m_Name: FragmentInfo
+  m_EditorClassIdentifier: 
+  fragmentInfos:
+  - fragmentName: ls
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 0
+    fragmentRoute: 0
+  - fragmentName: lc
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 0
+    fragmentRoute: 1
+  - fragmentName: rs
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 1
+    fragmentRoute: 0
+  - fragmentName: rc
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 1
+    fragmentRoute: 1
+  - fragmentName: us
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 2
+    fragmentRoute: 0
+  - fragmentName: uc
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 2
+    fragmentRoute: 1
+  - fragmentName: ds
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 3
+    fragmentRoute: 0
+  - fragmentName: dc
+    fragmentIcon: {fileID: 0}
+    fragmentDirection: 3
+    fragmentRoute: 1

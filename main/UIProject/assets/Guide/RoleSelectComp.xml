@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false">
+  <displayList>
+    <image id="n4_i0r6" name="n4" src="i0r6e" fileName="img/guide_2.png" xy="380,171" size="352,456"/>
+    <graph id="n6_i0r6" name="n6" xy="334,1181" pivot="0.5,0.5" size="411,92" type="rect" lineSize="2">
+      <relation target="n2_i0r6" sidePair="width-width,height-height"/>
+    </graph>
+    <list id="n0_i0r6" name="selectList" xy="103,769" size="902,274" layout="row" overflow="scroll" scrollBar="hidden" defaultItem="ui://q3l7vvj0i0r6b">
+      <item title="1" icon="ui://q3l7vvj0i0r6f"/>
+      <item title="sdf" icon="ui://q3l7vvj0i0r6g"/>
+      <item title="sdfds"/>
+    </list>
+    <text id="n1_i0r6" name="n1" xy="357,373" size="379,72" fontSize="54" text="请选择你的胚胎"/>
+    <text id="n2_i0r6" name="nameInput" xy="355,1191" pivot="0.5,0.5" size="370,72" fontSize="54" align="center" vAlign="middle" autoSize="none" text="niaho" input="true"/>
+    <component id="n3_i0r6" name="confirmBtn" src="i0r62" fileName="CommonButton.xml" pkg="t2zoropl" xy="390,1389">
+      <Button title="确  认"/>
+    </component>
+    <image id="n5_i0r6" name="n5" src="i0r6c" fileName="img/button_1.png" xy="774,1196" size="57,64"/>
+  </displayList>
+</component>

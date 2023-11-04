@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,700">
+  <displayList>
+    <graph id="n1_fltl" name="n1" xy="0,0" size="1000,700" type="rect"/>
+    <text id="n0_fltl" name="title" xy="444,32" size="150,95" fontSize="73" text="购买"/>
+    <loader id="n5_fltl" name="icon" xy="317,216" size="174,174"/>
+    <component id="n3_fltl" name="cancelBtn" src="i0r62" fileName="CommonTextButton.xml" pkg="t2zoropl" xy="70,457" size="331,100">
+      <Button title="不购买"/>
+    </component>
+    <component id="n4_fltl" name="okBtn" src="i0r62" fileName="CommonTextButton.xml" pkg="t2zoropl" xy="647,457" size="300,100">
+      <Button title="购 买"/>
+    </component>
+    <text id="n6_fltl" name="n6" xy="564,245" size="115,95" fontSize="73" text="x12"/>
+  </displayList>
+</component>

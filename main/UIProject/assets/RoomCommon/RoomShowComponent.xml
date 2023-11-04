@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <text id="n0_f77f" name="roomName" xy="314,30" pivot="0.5,0.5" size="452,144" fontSize="112" text="房间名称"/>
+    <text id="n2_f77f" name="n2" xy="358,907" size="364,154" fontSize="120" text="房间UI"/>
+  </displayList>
+</component>

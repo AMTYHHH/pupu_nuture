@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,250" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <graph id="n2_f77f" name="n2" xy="-2,-139" size="250,387" type="rect" lineSize="0" fillColor="#ffffff00">
+      <gearDisplay controller="button" pages="3"/>
+    </graph>
+    <loader id="n0_fltl" name="icon" xy="37,0" size="177,177" url="ui://kheinhymhybw2" vAlign="bottom" fill="scale"/>
+    <text id="n1_fltl" name="title" xy="65,186" pivot="0.5,0.5" size="119,62" fontSize="46" text="家 具"/>
+  </displayList>
+  <Button mode="Radio" downEffect="scale" downEffectValue=".8"/>
+</component>

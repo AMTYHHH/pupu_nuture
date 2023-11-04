@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="efkpvmij">
+  <resources>
+    <component id="f77f0" name="RoomEditComponent.xml" path="/"/>
+    <component id="f77f1" name="RoomCommonUI.xml" path="/" exported="true"/>
+    <component id="f77f2" name="RoomShowComponent.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

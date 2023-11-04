@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t2zoropl">
+  <resources>
+    <component id="i0r60" name="CommonContinueUI.xml" path="/" exported="true"/>
+    <component id="i0r61" name="CommonConfirmUI.xml" path="/" exported="true"/>
+    <component id="i0r62" name="CommonTextButton.xml" path="/" exported="true"/>
+    <component id="i0r63" name="BlankBtn.xml" path="/" exported="true"/>
+    <component id="fltl4" name="CommonIconButton.xml" path="/" exported="true"/>
+    <component id="fltl5" name="CommonTipUI.xml" path="/" exported="true"/>
+    <component id="fltl1" name="CommonGetRewardUI.xml" path="/" exported="true"/>
+    <image id="f77f6" name="icon_guide.png" path="/img/"/>
+    <component id="f77f7" name="CloseBtn.xml" path="/" exported="true"/>
+    <image id="f77f8" name="close.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

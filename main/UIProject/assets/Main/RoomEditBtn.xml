@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <image id="n6_f77f" name="n6" src="f77f4" fileName="img/icon_room.png" xy="0,7" size="100,86" aspect="true">
+      <gearDisplay controller="button" pages="2"/>
+    </image>
+    <image id="n5_f77f" name="n5" src="f77f7" fileName="img/close.png" xy="0,11" size="100,78" aspect="true">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+  </displayList>
+  <Button mode="Check"/>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,434" pivot="0.5,1" anchor="true" opaque="false">
+  <displayList>
+    <graph id="n0_f77f" name="n0" xy="-5,-1" pivot="0.5,1" size="802,433" type="rect" lineSize="0" fillColor="#ffffff00">
+      <relation target="" sidePair=""/>
+      <relation target="n2_f77f" sidePair="height-height"/>
+    </graph>
+    <component id="n3_f77f" name="closeBtn" src="f77f7" fileName="CloseBtn.xml" pkg="t2zoropl" xy="698,-2" size="104,87"/>
+    <list id="n2_f77f" name="goodsList" xy="14,67" pivot="0.5,1" size="766,342" layout="flow_hz" overflow="scroll" scroll="horizontal" lineGap="39" colGap="104" defaultItem="ui://lrm1spw4f77fb">
+      <item icon="ui://lrm1spw4f77f4"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

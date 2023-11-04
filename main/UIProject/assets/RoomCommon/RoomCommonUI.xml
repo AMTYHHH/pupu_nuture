@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false">
+  <controller name="isEdit" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n0_f77f" name="n0" xy="375,801" size="364,154" visible="false" fontSize="120" text="房间UI">
+      <gearDisplay controller="isEdit" pages="0"/>
+    </text>
+    <component id="n1_f77f" name="editComp" src="f77f0" fileName="RoomEditComponent.xml" xy="0,0">
+      <gearDisplay controller="isEdit" pages="1"/>
+    </component>
+  </displayList>
+</component>

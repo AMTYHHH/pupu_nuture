@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n2_f77f" name="n2" xy="0,0" size="1080,1920" alpha="0" type="rect" lineSize="0"/>
+    <text id="n0_f77f" name="n0" xy="185,723" size="714,166" fontSize="112" autoSize="none" text="编辑房间模式"/>
+    <component id="n1_f77f" name="closeBtn" src="f77f7" fileName="CloseBtn.xml" pkg="t2zoropl" xy="923,236"/>
+  </displayList>
+</component>

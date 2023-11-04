@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false">
+  <controller name="showDetailList" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n5_f77f" name="hideDetailBtn" src="i0r63" fileName="BlankBtn.xml" pkg="t2zoropl" xy="0,0" size="1080,1920" alpha="0">
+      <gearDisplay controller="showDetailList" pages="1"/>
+      <Button controller="showDetailList" page="0"/>
+    </component>
+    <component id="n3_f77f" name="detailCom" src="f77f1" fileName="DetailComponent.xml" xy="549,1635">
+      <gearDisplay controller="showDetailList" pages="1"/>
+    </component>
+    <list id="n0_f77f" name="goodsTypeList" xy="10,1633" size="1069,287" visible="false" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="256" colGap="37" defaultItem="ui://lrm1spw4f77f7" align="center">
+      <item title="食 物" icon="ui://lrm1spw4f77f9"/>
+      <item title="玩 具" icon="ui://lrm1spw4f77fa"/>
+      <item title="学 习" icon="ui://lrm1spw4f77f8"/>
+    </list>
+  </displayList>
+</component>

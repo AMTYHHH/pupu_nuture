@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 4871b4f63bbca8540acde0bd0237f131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3859046719378529422
+    second: "pupu\u8EAB\u4F53_0"
+  - first:
+      213: 1553799990661981959
+    second: "pupu\u8EAB\u4F53_1"
+  - first:
+      213: -4880365553402887026
+    second: "pupu\u8EAB\u4F53_2"
+  - first:
+      213: 7842114053539581491
+    second: "pupu\u8EAB\u4F53_3"
+  - first:
+      213: 3266933881292288907
+    second: "pupu\u8EAB\u4F53_4"
+  - first:
+      213: 1864658738352791712
+    second: "pupu\u4F53\u578B_5"
+  - first:
+      213: -5355863280578285048
+    second: "pupu\u8EAB\u4F53_5"
+  - first:
+      213: -2483111469151681178
+    second: "pupu\u4F53\u578B_7"
+  - first:
+      213: 5351595023894336491
+    second: "pupu\u5934\u90E8_0"
+  - first:
+      213: 2866060049826128301
+    second: "pupu\u8EAB\u4F53_6"
+  - first:
+      213: 7334101307604322869
+    second: "pupu\u8EAB\u4F53_7"
+  - first:
+      213: -4420891912206246729
+    second: "pupu\u8EAB\u4F53_8"
+  - first:
+      213: -2169948091570005852
+    second: "pupu\u624B_0"
+  - first:
+      213: 2478898280709852656
+    second: "pupu\u4F53\u578B_13"
+  - first:
+      213: -7337975527536051999
+    second: "pupu\u624B_1"
+  - first:
+      213: -2596352001123647457
+    second: "pupu\u4F53\u578B_15"
+  - first:
+      213: -1132450717167160951
+    second: "pupu\u811A_15"
+  - first:
+      213: 1035967447772983230
+    second: "pupu\u4F53\u578B_17"
+  - first:
+      213: -1528217552378999458
+    second: "pupu\u811A_10"
+  - first:
+      213: -1528799382849372017
+    second: "pupu\u4F53\u578B_19"
+  - first:
+      213: 5626257587902420321
+    second: "pupu\u811A_5"
+  - first:
+      213: -7832991682541344703
+    second: "pupu\u4F53\u578B_21"
+  - first:
+      213: 5920790734123097975
+    second: "pupu\u811A_0"
+  - first:
+      213: 6880020291043792734
+    second: "pupu\u4F53\u578B_23"
+  - first:
+      213: -6911803910147957402
+    second: "pupu\u624B_13"
+  - first:
+      213: 2471954385355965909
+    second: "pupu\u4F53\u578B_25"
+  - first:
+      213: 8128397532582945264
+    second: "pupu\u624B_8"
+  - first:
+      213: 3691367374144045971
+    second: "pupu\u4F53\u578B_27"
+  - first:
+      213: -7519237384732907533
+    second: "pupu\u624B_2"
+  - first:
+      213: 862754190348945294
+    second: "pupu\u4F53\u578B_29"
+  - first:
+      213: 8280086078625286499
+    second: "pupu\u624B_14"
+  - first:
+      213: 8510917190280326344
+    second: "pupu\u4F53\u578B_31"
+  - first:
+      213: -1586725308257017401
+    second: "pupu\u624B_9"
+  - first:
+      213: 5361979816143358687
+    second: "pupu\u4F53\u578B_33"
+  - first:
+      213: -917742205334571705
+    second: "pupu\u624B_3"
+  - first:
+      213: 5218949491914145039
+    second: "pupu\u4F53\u578B_35"
+  - first:
+      213: 456468078859917096
+    second: "pupu\u811A_16"
+  - first:
+      213: -8086187525484113561
+    second: "pupu\u4F53\u578B_37"
+  - first:
+      213: 8048728616559215863
+    second: "pupu\u811A_11"
+  - first:
+      213: -3787450574807672468
+    second: "pupu\u4F53\u578B_39"
+  - first:
+      213: 5125737323314494628
+    second: "pupu\u811A_6"
+  - first:
+      213: 4342509798891943389
+    second: "pupu\u4F53\u578B_41"
+  - first:
+      213: 1172477444840494579
+    second: "pupu\u811A_1"
+  - first:
+      213: 4122227830284447079
+    second: "pupu\u4F53\u578B_43"
+  - first:
+      213: -5251312233301910380
+    second: "pupu\u624B_4"
+  - first:
+      213: 3404772831997265159
+    second: "pupu\u4F53\u578B_49"
+  - first:
+      213: -1420230890942891441
+    second: "pupu\u811A_17"
+  - first:
+      213: 6217164235468270752
+    second: "pupu\u4F53\u578B_51"
+  - first:
+      213: 6285209974909418633
+    second: "pupu\u811A_12"
+  - first:
+      213: 1467454270587377991
+    second: "pupu\u4F53\u578B_53"
+  - first:
+      213: 8953848727839461198
+    second: "pupu\u811A_7"
+  - first:
+      213: -6781435851680911417
+    second: "pupu\u4F53\u578B_55"
+  - first:
+      213: -4367600449374023679
+    second: "pupu\u811A_2"
+  - first:
+      213: -4266108139261972856
+    second: "pupu\u4F53\u578B_57"
+  - first:
+      213: 2443167586211615757
+    second: "pupu\u624B_15"
+  - first:
+      213: 3752239462751547246
+    second: "pupu\u4F53\u578B_60"
+  - first:
+      213: 1883326501006671669
+    second: "pupu\u624B_10"
+  - first:
+      213: -2449572741352620368
+    second: "pupu\u4F53\u578B_62"
+  - first:
+      213: 978007300461742782
+    second: "pupu\u624B_5"
+  - first:
+      213: -1311066745583051402
+    second: "pupu\u4F53\u578B_64"
+  - first:
+      213: 3595709220013324867
+    second: "pupu\u811A_8"
+  - first:
+      213: 7382673273547144238
+    second: "pupu\u4F53\u578B_66"
+  - first:
+      213: 3354238536367902915
+    second: "pupu\u811A_3"
+  - first:
+      213: -9068328537882546199
+    second: "pupu\u4F53\u578B_68"
+  - first:
+      213: 1451647533535201915
+    second: "pupu\u624B_16"
+  - first:
+      213: -3167462051802428420
+    second: "pupu\u4F53\u578B_70"
+  - first:
+      213: -3973972181586980858
+    second: "pupu\u624B_11"
+  - first:
+      213: 1855155635856877449
+    second: "pupu\u4F53\u578B_72"
+  - first:
+      213: -1683472805566235602
+    second: "pupu\u624B_6"
+  - first:
+      213: -1478296708247149770
+    second: "pupu\u4F53\u578B_74"
+  - first:
+      213: 4173209810390142295
+    second: "pupu\u811A_13"
+  - first:
+      213: -4392156443220419571
+    second: "pupu\u4F53\u578B_76"
+  - first:
+      213: -3080444319226102920
+    second: "pupu\u811A_9"
+  - first:
+      213: 5908404721456235499
+    second: "pupu\u4F53\u578B_78"
+  - first:
+      213: -8997361609060014812
+    second: "pupu\u811A_4"
+  - first:
+      213: 6017504921853067478
+    second: "pupu\u4F53\u578B_80"
+  - first:
+      213: 4665449228764130743
+    second: "pupu\u624B_17"
+  - first:
+      213: 5294361227615198290
+    second: "pupu\u4F53\u578B_82"
+  - first:
+      213: -8043125795875324540
+    second: "pupu\u624B_12"
+  - first:
+      213: -6588778471864743750
+    second: "pupu\u4F53\u578B_84"
+  - first:
+      213: 7603325340679052937
+    second: "pupu\u624B_7"
+  - first:
+      213: -982955182848880682
+    second: "pupu\u4F53\u578B_86"
+  - first:
+      213: 7129632964067260240
+    second: "pupu\u4F53\u578B_87"
+  - first:
+      213: 351337925980729603
+    second: "pupu\u4F53\u578B_88"
+  - first:
+      213: 5203271344626778248
+    second: "pupu\u811A_14"
+  - first:
+      213: 5184385241269735972
+    second: "pupu\u4F53\u578B_90"
+  - first:
+      213: -836223557097871112
+    second: "pupu\u4F53\u578B_91"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_0"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2867
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c91309b861e8530800000000000000
+      internalID: 3859046719378529422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_1"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 2899
+        width: 205
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707a96febd4309510800000000000000
+      internalID: 1553799990661981959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_2"
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2955
+        width: 364
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844e5fe265754cb0800000000000000
+      internalID: -4880365553402887026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_3"
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2141
+        width: 301
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4351be29c4dc60800000000000000
+      internalID: 7842114053539581491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_4"
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2108
+        width: 467
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837d1b5e0b765d20800000000000000
+      internalID: 3266933881292288907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_5"
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2205
+        width: 451
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b29f09b62ca5b0800000000000000
+      internalID: -5355863280578285048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u5934\u90E8_0"
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1683
+        width: 491
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be358fcf15fa44a40800000000000000
+      internalID: 5351595023894336491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_6"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1328
+        width: 214
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da123d62e6a46c720800000000000000
+      internalID: 2866060049826128301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_7"
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1305
+        width: 299
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53acb721846f7c560800000000000000
+      internalID: 7334101307604322869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u8EAB\u4F53_8"
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1336
+        width: 219
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc9c8e8a36d5a2c0800000000000000
+      internalID: -4420891912206246729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_0"
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1350
+        width: 157
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8dee425bbc2e1e0800000000000000
+      internalID: -2169948091570005852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_1"
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1144
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e834bec2264a2a90800000000000000
+      internalID: -7337975527536051999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_15"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 836
+        width: 136
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817d9d921ab840f0800000000000000
+      internalID: -1132450717167160951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_10"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 854
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dcee2ab3eaacae0800000000000000
+      internalID: -1528217552378999458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_5"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 871
+        width: 106
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16515cd877b741e40800000000000000
+      internalID: 5626257587902420321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_0"
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 900
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd4d09dcfda2250800000000000000
+      internalID: 5920790734123097975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_13"
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 970
+        width: 133
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d997ac6f65410a0800000000000000
+      internalID: -6911803910147957402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_8"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 945
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a4c26d7eddc070800000000000000
+      internalID: 8128397532582945264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_2"
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 994
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7682def6d46a790800000000000000
+      internalID: -7519237384732907533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_14"
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 760
+        width: 126
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3690e123b66c8e270800000000000000
+      internalID: 8280086078625286499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_9"
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 731
+        width: 120
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e73d2db1daf9e0800000000000000
+      internalID: -1586725308257017401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_3"
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 824
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74536af93568343f0800000000000000
+      internalID: -917742205334571705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_16"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 653
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82710cb9c43b55600800000000000000
+      internalID: 456468078859917096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_11"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 627
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f488836804d2bf60800000000000000
+      internalID: 8048728616559215863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_6"
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 702
+        width: 135
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac3f1030f6422740800000000000000
+      internalID: 5125737323314494628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_1"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 695
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f510e6260a754010800000000000000
+      internalID: 1172477444840494579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_4"
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 655
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c5061b8579f17b0800000000000000
+      internalID: -5251312233301910380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_17"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 445
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aff4687835a4ce0800000000000000
+      internalID: -1420230890942891441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_12"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 413
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb735fb2d893750800000000000000
+      internalID: 6285209974909418633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_7"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 530
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f447b7af5724c70800000000000000
+      internalID: 8953848727839461198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_2"
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 451
+        width: 118
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1009936288a2363c0800000000000000
+      internalID: -4367600449374023679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_15"
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 523
+        width: 104
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0454e6a9ffd7e120800000000000000
+      internalID: 2443167586211615757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_10"
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 501
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff490797be22a10800000000000000
+      internalID: 1883326501006671669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_5"
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 503
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac2c34574929d00800000000000000
+      internalID: 978007300461742782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_8"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 333
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abd761c7686e130800000000000000
+      internalID: 3595709220013324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_3"
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 260
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c092246d26ac8e20800000000000000
+      internalID: 3354238536367902915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_16"
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 292
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a00779db9452410800000000000000
+      internalID: 1451647533535201915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_11"
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 311
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60059391b5d99d8c0800000000000000
+      internalID: -3973972181586980858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_6"
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 328
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cb13b176a13a8e0800000000000000
+      internalID: -1683472805566235602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_13"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 188
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dca7146383ae930800000000000000
+      internalID: 4173209810390142295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_9"
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 119
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b782a66301045d0800000000000000
+      internalID: -3080444319226102920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_4"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 108
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ad306943f22380800000000000000
+      internalID: -8997361609060014812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_17"
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 67
+        width: 162
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2b1eda510fb040800000000000000
+      internalID: 4665449228764130743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_12"
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 122
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df115f3b3116090800000000000000
+      internalID: -8043125795875324540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u624B_7"
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 125
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e96eafc10748960800000000000000
+      internalID: 7603325340679052937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pupu\u811A_14"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 123
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c27648bbb53840800000000000000
+      internalID: 5203271344626778248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

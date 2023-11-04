@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,700">
+  <displayList>
+    <component id="n6_fltl" name="bg" src="i0r63" fileName="BlankBtn.xml" xy="0,0" size="1000,700"/>
+    <loader id="n1_fltl" name="icon" xy="413,20" size="174,174"/>
+    <text id="n2_fltl" name="num" xy="615,88" size="78,95" fontSize="73" text="x1"/>
+    <text id="n3_fltl" name="name" xy="390,231" pivot="0.5,0.5" size="220,72" fontSize="54" align="center" text="道具名称"/>
+    <text id="n4_fltl" name="desc" xy="254,340" pivot="0.5,0" size="586,106" fontSize="40" autoSize="height" text="道具描述道具描述道具描述道具描述道具描述道具描述"/>
+    <component id="n7_fltl" name="confirmBtn" src="i0r62" fileName="CommonTextButton.xml" xy="350,561"/>
+  </displayList>
+</component>

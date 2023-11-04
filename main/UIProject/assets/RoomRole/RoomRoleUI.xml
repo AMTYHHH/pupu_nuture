@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" opaque="false">
+  <displayList>
+    <list id="n0_hybw" name="skinTypeList" xy="11,1630" size="1069,287" visible="false" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="256" colGap="37" defaultItem="ui://kheinhymhybw1" align="center">
+      <item title="食 物" icon="ui://kheinhymhybw3"/>
+      <item title="玩 具" icon="ui://kheinhymhybw4"/>
+      <item title="学 习" icon="ui://kheinhymhybw2"/>
+    </list>
+  </displayList>
+</component>
